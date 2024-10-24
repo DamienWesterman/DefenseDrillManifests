@@ -3,12 +3,5 @@
   <default revision="main" remote="origin" sync-j="4" />
   <remote name="origin" fetch="https://github.com/DamienWesterman/" />
 
-<!--
-  <project name="microservice-a" path="microservices/microservice-a" />
-  <project name="microservice-b" path="microservices/microservice-b" />
-  <project name="gateway" path="services/gateway" />
-  <project name="security" path="services/security" />
-  -->
-
-  <!-- Add more repositories as needed -->
+  <project name="DefenseDrill" path="spring_microservices/DefenseDrill" />
 </manifest>
