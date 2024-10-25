@@ -5,4 +5,9 @@
 
   <project name="DefenseDrillConfigServer" path="spring_microservices/config-server" />
   <project name="DefenseDrillServerRegistry" path="spring_microservices/server-registry" />
+  <project name="DefenseDrillRestAPI" path="spring_microservices/rest-api" />
+  <project name="DefenseDrillSecurity" path="spring_microservices/security" />
+  <project name="DefenseDrillMVC" path="spring_microservices/mvc" />
+  <project name="DefenseDrillGateway" path="spring_microservices/gateway" />
 </manifest>
+
