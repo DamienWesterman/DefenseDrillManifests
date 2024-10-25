@@ -3,5 +3,6 @@
   <default revision="main" remote="origin" sync-j="4" />
   <remote name="origin" fetch="https://github.com/DamienWesterman/" />
 
-  <project name="DefenseDrill" path="spring_microservices/DefenseDrill" />
+  <project name="DefenseDrillConfigServer" path="spring_microservices/config-server" />
+  <project name="DefenseDrillServerRegistry" path="spring_microservices/server-registry" />
 </manifest>
