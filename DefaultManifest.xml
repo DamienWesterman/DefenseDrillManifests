@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default revision="main" remote="origin" sync-j="4" />
+  <remote name="origin" fetch="https://github.com/DamienWesterman/" />
+
+  <project name="DefenseDrillConfigServer" path="spring_microservices/config-server" />
+  <project name="DefenseDrillServerRegistry" path="spring_microservices/server-registry" />
+</manifest>
